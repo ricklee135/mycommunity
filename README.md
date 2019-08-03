@@ -5,7 +5,9 @@ https://github.com/ricklee135/mycommunity
 https://spring.io/guidesgit     
 
 ##工具        
-https://github.com/ricklee135/mycommunity       
+https://github.com/ricklee135/mycommunity  
+https://flywaydb.org/getstarted/firststeps/maven#adding-a-second-migration
+https://www.projectlombok.org/     
 
 ##脚本
 ```sql
@@ -18,4 +20,7 @@ create table user
 	gmt_create bigint,
 	gmt_modified bigint 
 );
+```
+```
+mvn flyway:migrate
 ```
