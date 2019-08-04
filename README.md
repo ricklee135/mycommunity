@@ -2,7 +2,8 @@
 ##资料        
 https://www.bilibili.com/video/av50200264?p=4       
 https://github.com/ricklee135/mycommunity       
-https://spring.io/guidesgit     
+https://spring.io/guidesgit    
+https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#setting-attribute-values 
 
 ##工具        
 https://github.com/ricklee135/mycommunity  
